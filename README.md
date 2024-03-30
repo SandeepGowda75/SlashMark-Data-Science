@@ -1,1 +1,1 @@
-# SlashMark-Data-Science
+# SlashMark-DataScience
